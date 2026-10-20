@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Generated data
+vector_db/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+temp_*/
+tmp/
+downloads/
